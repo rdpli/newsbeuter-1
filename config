@@ -1,0 +1,6 @@
+# red scheme
+color listnormal white black
+color listfocus  red yellow bold reverse
+color info       red yellow reverse bold
+color background white black
+color article    white black
