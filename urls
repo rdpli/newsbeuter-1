@@ -1,10 +1,11 @@
+http://www.goodfruit.com/feed/
 http://www.crowdfundingrss.com/feed/rss/jxjWE5w "CrowdFunding"
 http://www.usda.gov/cgi-bin/usdarss.pl?navid=HOME "Ag "
 http://www.theinternetofthings.eu/rss.xml "Tech"
 http://feeds.feedburner.com/iot "Tech"
 http://asmarterplanet.com/feed "Tech"
 http://www.connectedly.com/rss.xml "Tech"
-
+http://dumb-tiger.blogspot.com/feeds/posts/default?alt=rss "Tech"
 http://feeds.twit.tv/floss.xml "Tech"
 http://addyosmani.com/blog/feed/ "Code"
 http://almondinsights.com/feed "Ag"
@@ -14,7 +15,7 @@ http://blog.codepen.io/feed/podcast/ "Code"
 
 http://lemire.me/blog/feed/ "Tech"
 http://www.2ality.com/feeds/posts/default?alt=rss "Code"
-
+https://letsencrypt.org/feed.xml
 http://www.linuxvoice.com/feed/ "Code"
 http://ponyfoo.com/articles/feed "Code"
 http://feeds.feedburner.com/html5rocks "Code"
