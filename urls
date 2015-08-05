@@ -1,11 +1,16 @@
+http://www.windytan.com/feeds/posts/default?alt=rss "Tech"
+http://indiethink.net/feed.xml "Tech"
 http://www.crowdfundingrss.com/feed/rss/jxjWE5w "CrowdFunding"
 http://www.usda.gov/cgi-bin/usdarss.pl?navid=HOME "Ag "
 http://www.theinternetofthings.eu/rss.xml "Tech"
 http://feeds.feedburner.com/iot "Tech"
 http://asmarterplanet.com/feed "Tech"
 http://www.connectedly.com/rss.xml "Tech"
-
-http://feeds.twit.tv/floss.xml "Tech"
+http://feeds.feedburner.com/TroyHunt "Code"
+https://www.garyvaynerchuk.com/feeds/feed.rss "Code"
+http://javascriptweekly.com/rss/1jag774c "Code"
+http://feeds.twit.tv/floss_video_hd.xml "Tech"
+http://feeds.twit.tv/tri_video_hd.xml "Tech"
 http://addyosmani.com/blog/feed/ "Code"
 http://almondinsights.com/feed "Ag"
 http://aws.amazon.com/new/feed/ "Cloud"
@@ -19,6 +24,9 @@ http://davidwalsh.name/feed "Web"
 http://feeds2.feedburner.com/tympanus "Code"
 http://feeds.fabien.potencier.org/aidedecamp "PHP"
 http://feeds.feedburner.com/alistapart/main "Code"
+http://feeds.feedburner.com/TheEndeavour "Code"
+
+https://blog.mozilla.org/webdev/feed/ "Code"
 http://feeds.feedburner.com/codinghorror "Code"
 http://feeds.feedburner.com/cssda-websites-of-the-day "Web"
 http://feeds.feedburner.com/CssTricks "Code"
@@ -58,3 +66,8 @@ http://www.sitepoint.com/web/feed/ "Code"
 http://www.smashingmagazine.com/feed/ "Code"
 http://www.startalkradio.net/feed/ "Space"
 http://www.stubbornella.org/content/feed/ "Code"
+http://feeds.feedburner.com/Wrockblog "Code"
+http://foodfightshow.org/atom.xml\n
+http://www.arresteddevops.com/feed/\n
+http://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss\n
+http://feeds.feedburner.com/AWSPodcast\n

@@ -4,3 +4,4 @@ color listfocus  red yellow bold reverse
 color info       red yellow reverse bold
 color background white black
 color article    white black
+bind-key ESC open
