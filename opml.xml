@@ -1,13 +1,54 @@
 <?xml version="1.0" encoding="utf-8" ?>
-
 <opml version="1.1">
-<head>   
-  <title>jarse-pods</title>   
-</head>
-<body>
-  <outline text="Feeds">
-    <outline title="DevHell" text="DevHell" type="rss" xmlUrl="http://feeds.devhell.info/devhell-podcast" />
-    <outline title="BRandT" text="Beats Rye and Types" type="rss" xmlUrl="http://feeds.feedburner.com/BeatsRyeTypes" />
-  </outline>
-</body>
+  <head>   
+    <title>jarse-pods</title>   
+  </head>
+  <body>
+    <outline text="Feeds">
+              <outline title="FLOSS Weekly (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/floss.xml"/>
+              <outline title="Triangulation (MP3)" type="rss" xmlUrl="http://feeds.twit.tv/tri.xml"/>
+              <outline title="CodePen Radio" type="rss" xmlUrl="http://blog.codepen.io/feed/podcast/"/>
+              <outline title="Food Fight" type="rss" xmlUrl="http://foodfightshow.org/atom.xml"/>
+              <outline title="AWS Podcast" type="rss" xmlUrl="http://feeds.feedburner.com/AWSPodcast"/>
+              <outline title="The Tim Ferriss Show" type="rss" xmlUrl="http://feeds.feedburner.com/thetimferrissshow"/>
+              <outline title="/dev/hell" type="rss" xmlUrl="http://feeds.devhell.info/devhell-podcast"/>
+              <outline title="Beats, Rye & Types" type="rss" xmlUrl="http://feeds.feedburner.com/BeatsRyeTypes"/>
+              <outline title="The Cloudcast (.net) - Weekly Cloud Computing Podcast" type="rss" xmlUrl="http://www.buzzsprout.com/3195.rss"/>
+              <outline title="CodeNewbie" type="rss" xmlUrl="http://feeds.podtrac.com/q8s8ba9YtM6r"/>
+              <outline title="Coding Blocks | Software and Web Programming / Security / Best Practices / Microsoft .NET" type="rss" xmlUrl="http://www.codingblocks.net/feed/podcast/"/>
+              <outline title="The Creative Coding Podcast" type="rss" xmlUrl="http://creativecodingpodcast.com/feed/"/>
+              <outline title="CTRL+CLICK CAST" type="rss" xmlUrl="http://feeds.feedburner.com/ctrlclickcast"/>
+              <outline title="Dev Discussions" type="rss" xmlUrl="http://simplecast.fm/podcasts/342/rss"/>
+              <outline title="JavaScript Jabber" type="rss" xmlUrl="http://feeds.feedwrench.com/JavaScriptJabber.rss"/>
+              <outline title="5 Minutes of JavaScript" type="rss" xmlUrl="https://fivejs.codeschool.com/feed.rss"/>
+              <outline title="Full Stack Radio" type="rss" xmlUrl="http://simplecast.fm/podcasts/279/rss"/>
+              <outline title="Functional Geekery" type="rss" xmlUrl="http://www.functionalgeekery.com/feed/"/>
+              <outline title="GitMinutes" type="rss" xmlUrl="http://feeds.gitminutes.com/gitminutes-podcast"/>
+              <outline title="Linux Luddites » MP3" type="rss" xmlUrl="http://feeds.feedburner.com/LinuxLudditesMP3"/>
+              <outline title="Ubuntu Podcast" type="rss" xmlUrl="http://ubuntupodcast.org/feed/podcast"/>
+              <outline title="Linux Voice Podcast" type="rss" xmlUrl="http://www.linuxvoice.com/podcast_mp3.rss"/>
+              <outline title="Hacker Public Radio" type="rss" xmlUrl="http://hackerpublicradio.org/hpr_rss.php"/>
+              <outline title="NodeUp" type="rss" xmlUrl="http://feeds.feedburner.com/NodeUp"/>
+              <outline title="The PHP Roundtable" type="rss" xmlUrl="http://feeds.feedburner.com/PhpRoundtable"/>
+              <outline title="PHP Town Hall" type="rss" xmlUrl="http://feeds.feedburner.com/phptownhall/drDl"/>
+              <outline title="ShopTalk" type="rss" xmlUrl="http://shoptalkshow.com/feed/podcast/"/>
+              <outline title="Software Engineering Daily" type="rss" xmlUrl="http://softwareengineeringdaily.com/feed/podcast/"/>
+              <outline title="Software Engineering Radio - The Podcast for Professional Software Developers" type="rss" xmlUrl="http://feeds.feedburner.com/se-radio"/>
+              <outline title="TTL Podcast" type="rss" xmlUrl="http://ttlpodcast.com/feeds/rss.xml"/>
+              <outline title="Talking Code" type="rss" xmlUrl="http://simplecast.fm/podcasts/150/rss"/>
+              <outline title="TechStuff" type="rss" xmlUrl="http://www.howstuffworks.com/podcasts/techstuff.rss"/>
+              <outline title="The Big Web Show" type="rss" xmlUrl="http://feeds.5by5.tv/bigwebshow"/>
+              <outline title="The Cognicast - Cognitect Blog" type="rss" xmlUrl="http://feeds.feedburner.com/cognicast"/>
+              <outline title="The Five-Minute Geek Show" type="rss" xmlUrl="http://simplecast.fm/podcasts/335/rss"/>
+              <outline title="Hanselminutes" type="rss" xmlUrl="http://feeds.podtrac.com/P-4IIgRqsKI_"/>
+              <outline title="The Laravel Podcast" type="rss" xmlUrl="http://simplecast.fm/podcasts/351/rss"/>
+              <outline title="Loosely Coupled" type="rss" xmlUrl="http://feeds.feedblitz.com/loosely-coupled"/>
+              <outline title="All Jupiter Broadcasting Shows" type="rss" xmlUrl="http://feeds2.feedburner.com/JupiterBroadcasting"/>
+              <outline title="The Music Makers" type="rss" xmlUrl="http://simplecast.fm/podcasts/1231/rss"/>
+              <outline title="Back to Work" type="rss" xmlUrl="http://feeds.5by5.tv/b2w"/>
+              <outline title="Giant Robots Smashing into other Giant Robots Podcast" type="rss" xmlUrl="http://simplecast.fm/podcasts/271/rss"/>
+              <outline title="Three Devs and a Maybe" type="rss" xmlUrl="http://threedevsandamaybe.com/podcast.xml"/>
+              <outline title="Voices of the ElePHPant" type="rss" xmlUrl="http://feeds.feedburner.com/VoicesOfTheElephpant"/>
+          </outline>
+  </body>
 </opml>
