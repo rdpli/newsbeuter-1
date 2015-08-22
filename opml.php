@@ -2,8 +2,6 @@
 
 <?php
 
-include 'vendor/autoload.php';
-
 function startsWith($haystack, $needle) { return $needle === "" || strrpos($haystack, $needle, -strlen($haystack)) !== FALSE; }
 
 $urls = file("urls");
@@ -32,7 +30,7 @@ foreach($urls as $k => $url){
 
         @$title = $dom->getElementsByTagName('title');
 
-        $arr = ["name" => $title->item(0)->nodeValue, "url" => $url];
+        $arr = ["name" => str_replace("&", "and", $title->item(0)->nodeValue), "url" => $url];
 
         $pods[] = $arr;
 
